@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 #permalink: /publications/
+permalink: https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html
 author_profile: true
 ---
 
