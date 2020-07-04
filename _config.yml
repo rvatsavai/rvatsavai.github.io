@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Ranga Raju Vatsavai"
   avatar           : "profile.png"
-  bio              : "CFEP Associate Professor"
-  location         : "NCSU, Raleigh, NC, USA"
+  bio              : "Associate Professor, CS/NCSU"
+  location         : "Raleigh, NC, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  dblp             : "https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html"
+  googlescholar    : "https://scholar.google.com/citations?user=y-JsL4kAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ranga_Vatsavai"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rvatsavai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ranga-raju-vatsavai-2ba5663"
+  orcid            : "https://orcid.org/0000-0002-7083-0267"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
