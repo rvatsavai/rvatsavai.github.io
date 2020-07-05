@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications [Google Scholar]"
+title: "Publications [<u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html">DBLP</a>.</u>]"
 permalink: /publications/
 author_profile: true
 ---
