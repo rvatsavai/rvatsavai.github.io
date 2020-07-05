@@ -1,7 +1,7 @@
 ---
-title: "<u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html">ICPR 2020</a>,</u>"
+title: "<u><a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>,</u>"
 collection: publications
-permalink: https://www.micc.unifi.it/icpr2020/
+permalink: 
 excerpt: 'Test.'
 date: 2009-10-01
 venue: 'ICPR Conference'
