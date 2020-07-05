@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+# You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
