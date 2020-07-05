@@ -1,7 +1,7 @@
 ---
 title: "ICPR 2020"
 collection: publications
-permalink: "<u><a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>,</u>"
+permalink: "https://www.micc.unifi.it/icpr2020/"
 excerpt: 'Test.'
 date: 2009-10-01
 venue: 'ICPR Conference'
