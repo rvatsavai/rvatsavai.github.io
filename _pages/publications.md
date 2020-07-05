@@ -1,9 +1,12 @@
 ---
 layout: archive
 title: "Publications"
+test: see 
 permalink: /publications/
 author_profile: true
 ---
+
+Why <u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html">DBLP</a>.</u>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -16,4 +19,3 @@ author_profile: true
 {% endfor %}
 
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-Why <u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html">DBLP</a>.</u>
