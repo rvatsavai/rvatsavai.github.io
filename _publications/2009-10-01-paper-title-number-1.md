@@ -1,5 +1,5 @@
 ---
-title: "<u><a href="https://www.micc.unifi.it/icpr2020/">ICPR 2020</a>,</u>"
+title: "test"
 collection: publications
 permalink: 
 excerpt: 'Test.'
