@@ -1,1 +1,13 @@
-Bharathkumar Ramachandra, Michael J. Jones, Ranga Raju Vatsavai: Learning a distance function with a Siamese network to localize anomalies in videos. WACV 2020: 2587-2596
+---
+title: "ICPR 2020"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Test.'
+date: 2020
+venue: 'ICPR Conference'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+Short Abstract here.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
