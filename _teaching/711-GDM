@@ -1,0 +1,15 @@
+---
+title: "CSC/GIS 711: Geospatial Data Management"
+collection: teaching
+type: "Graduate Course for Geospatial Analytics PhD Students"
+permalink: /teaching/711-GDM
+venue: "NCSU, Computer Science Department"
+date: 2018-08-15
+location: "Raleigh, USA"
+---
+
+**Course Description:** Spatial databases which are designed to collect, manage, retrieve, and analysis of geospatial data are core of modern geographic information systems. The understanding of data management principles and technologies is critical for efficient implementation of geospatial applications. This course introduces students to: (i) spatial and temporal data types, (ii) data models, (iii) geometry models (iv) spatial predicates, (v) spatial access methods, and (vi) spatial query processing. In addition, students will be exposed to modern data management systems for geospatial application development, and data integration principles.
+
+**Text Books:** Spatial Databases: A Tour: Shashi Shekhar, Sanjay Chawla. Pearson.
+
+**Offerings:** Fall 2018, Spring 2020.
