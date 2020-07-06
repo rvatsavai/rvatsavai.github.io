@@ -12,4 +12,4 @@ location: "Raleigh, USA"
 
 **Text Books:** No text book. Students are expected to read foundational research papers on weekly basis.
 
-**Offerings:** Spring 2015, Spring 2018.
+**Offerings:** Spring 2015, Spring 2018, Spring 2020.
