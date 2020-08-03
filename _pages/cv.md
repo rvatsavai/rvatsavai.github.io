@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Minnesota, 2003
+** M.S. in Computer Science, University of Minnesota, 2003
 * Ph.D in Comupter Science, University of Minnesota, 2008
 
 Professional Experience (Full time: 30+ Years)
