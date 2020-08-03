@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html]"
 permalink: /cv/
 author_profile: true
 redirect_from:
