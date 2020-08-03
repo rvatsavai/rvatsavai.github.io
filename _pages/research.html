@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Research"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% if site.research_link == true %}
+
+<p style="text-decoration:underline;"><a href="/research.html">Current Research Topics of Interest</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-research.html %}
+{% endfor %}
