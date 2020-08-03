@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, University of Minnesota, 2003
+* Ph.D in Comupter Science, University of Minnesota, 2008
 
-Work experience
+Professional Experience (Full time: 30+ Years)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - : North Carolina State University
+  * Associate Professor, Department of Computer Science
+  * Associate Director, The Center for Geospatial Analytics
+
+* 2014 - : Oak Ridge National Laboratory, CSED and National Security Emerging Technologies
+  * Joint Faculty Appointment (JFA)
+
   
 Skills
 ======
