@@ -1,8 +1,8 @@
 ---
-title: "CSC 591: Foundations of Data Science"
-collection: teaching
+title: "Semi-supervised Learning"
+collection: portfolio
 type: "Graduate Course for Data Science Track"
-permalink: /teaching/2015-FDS
+permalink: /portfolio/Semi-supervised
 venue: "NCSU, Computer Science Department"
 date: 2015-01-01
 location: "Raleigh, USA"
