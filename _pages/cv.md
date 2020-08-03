@@ -41,7 +41,7 @@ Professional Experience (Full time: 30+ Years)
 * 1990-1995: National Forest Data Management Center (NFDMC), Dehradun, Govt. of India, India.
   * Technical Assistant
   
-Skills
+Prefessional Service
 ======
-* Skill 1
-* Skill 2
+* Co-chair (2020): SIAM Data Mining Panel (2020), ICDM Panel (2020), ACM SIGSPATIAL Workshops (2020)
+* PC (2020): ICDM, AAAI, ECML/PKDD, BigData Congress, ...
