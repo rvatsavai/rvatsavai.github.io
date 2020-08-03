@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Full-CV] (https://github.com/rvatsavai/rvatsavai.github.io/tree/master/files/raju-cv.pdf), [NSF]. 
+
+<u><a href="https://github.com/rvatsavai/rvatsavai.github.io/tree/master/files/raju-cv.pdf">[Full-CV]</a></u>
 
 Education
 ======
