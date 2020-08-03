@@ -2,7 +2,7 @@
 title: "Semi-supervised Learning"
 collection: portfolio
 type: "Graduate Course for Data Science Track"
-permalink: /portfolio/Semi-supervised
+permalink: /portfolio/portfolio-1
 venue: "NCSU, Computer Science Department"
 date: 2015-01-01
 location: "Raleigh, USA"
