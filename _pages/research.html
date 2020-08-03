@@ -5,12 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% if site.research_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/research.html">Current Research Topics of Interest</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-research.html %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
