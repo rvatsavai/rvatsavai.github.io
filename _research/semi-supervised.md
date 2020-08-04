@@ -1,5 +1,5 @@
 ---
-title: "Semi-supervised Learning"
+title: "+ Semi-supervised Learning"
 collection: research
 type: "url"
 permalink: /research/list-of-papers
