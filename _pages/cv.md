@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="https://rvatsavai.github.io/files/raju-cv.pdf" style="color:red;>[Full-CV]</a></u>
+<u><a href="https://rvatsavai.github.io/files/raju-cv.pdf" style="color:red;">[Full-CV]</a></u>
 
 Education
 ======
