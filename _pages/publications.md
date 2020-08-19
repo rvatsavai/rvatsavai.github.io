@@ -20,3 +20,7 @@ Full List :: <u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.ht
 
 ## Upcoming (Papers Under Review)
 
+Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification
+A Survey of Single-Scene Video Anomaly Detection
+Estimating a Manifold from a Tangent Bundle Learner
+Relational Long Short-Term Memory for Video Action Recognition
