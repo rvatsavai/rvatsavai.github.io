@@ -20,7 +20,7 @@ Full List :: <u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.ht
 
 ## Upcoming (Papers Under Review)
 
-* Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification (<a href="https://arxiv.org/pdf/2007.03844.pdf" style="color:red;" target="_blank">[preprint]</a>)
-* A Survey of Single-Scene Video Anomaly Detection (<a href="https://arxiv.org/pdf/2004.05993" style="color:red;" target="_blank">[preprint]</a>)
-* Estimating a Manifold from a Tangent Bundle Learner (<a href="https://arxiv.org/pdf/1906.07661" style="color:red;" target="_blank">[preprint]</a>)
-* Relational Long Short-Term Memory for Video Action Recognition (<a href="https://arxiv.org/pdf/1811.07059" style="color:red;" target="_blank">[preprint]</a>)
+* Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification <a href="https://arxiv.org/pdf/2007.03844.pdf" style="color:red;" target="_blank">[preprint]</a>
+* A Survey of Single-Scene Video Anomaly Detection <a href="https://arxiv.org/pdf/2004.05993" style="color:red;" target="_blank">[preprint]</a>
+* Estimating a Manifold from a Tangent Bundle Learner <a href="https://arxiv.org/pdf/1906.07661" style="color:red;" target="_blank">[preprint]</a>
+* Relational Long Short-Term Memory for Video Action Recognition <a href="https://arxiv.org/pdf/1811.07059" style="color:red;" target="_blank">[preprint]</a>
