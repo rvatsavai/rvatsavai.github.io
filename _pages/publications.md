@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Full List :: <u><a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html" style="color:red;" target="_blank">[DBLP]</a>
-                <a href="https://scholar.google.com/citations?user=y-JsL4kAAAAJ&hl=en" style="color:blue;" target="_blank">[Google Scholar]</a></u>
+## Full List 
+* <a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html" style="color:red;" target="_blank">[DBLP]</a>
+* <a href="https://scholar.google.com/citations?user=y-JsL4kAAAAJ&hl=en" style="color:blue;" target="_blank">[Google Scholar]</a>
 
 ## Upcoming (Accepted Papers)
 
