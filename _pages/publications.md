@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<span style="color:blue">some *This is Blue italic.* text</span>
 
 ## Full List 
 * <a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html" style="color:red;" target="_blank">[DBLP]</a>
