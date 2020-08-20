@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="https://rvatsavai.github.io/files/raju-cv.pdf" style="color:red;" target="_blank">[Full-CV]</a></u>
-<u><a href="https://rvatsavai.github.io/files/Raju-nsf-biosketch-May-2020.pdf" style="color:blue;" target="_blank">[NSF Style 2 Pg]</a></u>
+* Full CV <a href="https://rvatsavai.github.io/files/raju-cv.pdf" style="color:red;" target="_blank">[PDF]</a>
+* NSF Stype <a href="https://rvatsavai.github.io/files/Raju-nsf-biosketch-May-2020.pdf" style="color:blue;" target="_blank">[2-Pg PDF]</a></u>
 
+## <span style="color:green">Education</span>
 Education
 ======
 * M.S. in Computer Science, University of Minnesota, 2003
