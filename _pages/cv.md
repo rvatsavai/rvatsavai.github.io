@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-* <span style="color:green">Full CV</span> <a href="https://rvatsavai.github.io/files/raju-cv.pdf" style="color:red;" target="_blank">[PDF]</a>
-* NSF Stype <a href="https://rvatsavai.github.io/files/Raju-nsf-biosketch-May-2020.pdf" style="color:blue;" target="_blank">[2-Pg PDF]</a>
+* <span style="color:blue">Full CV</span> <a href="https://rvatsavai.github.io/files/raju-cv.pdf" style="color:red;" target="_blank">[PDF]</a>
+* <span style="color:red">NSF Style</span> <a href="https://rvatsavai.github.io/files/Raju-nsf-biosketch-May-2020.pdf" style="color:blue;" target="_blank">[2-Pg PDF]</a>
 
 ## <span style="color:green">Education</span>
 * M.S. in Computer Science, University of Minnesota, 2003
 * Ph.D in Comupter Science, University of Minnesota, 2008
 
-Professional Experience (Full time: 30+ Years)
-======
+## <span style="color:green">Professional Experience (Full time: 30+ Years)</span>
 
 * 2014 - : North Carolina State University, Raleigh, NC, USA
   * Associate Professor, Department of Computer Science
@@ -41,7 +40,7 @@ Professional Experience (Full time: 30+ Years)
 * 1990-1995: National Forest Data Management Center (NFDMC), Dehradun, Govt. of India, India.
   * Technical Assistant
   
-Prefessional Service
-======
+<span style="color:green">Prefessional Service</span>
+
 * Co-chair (2020): SIAM Data Mining Panel (2020), ICDM Panel (2020), ACM SIGSPATIAL Workshops (2020)
 * PC (2020): ICDM, AAAI, ECML/PKDD, BigData Congress, CIKM, ...
