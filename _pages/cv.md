@@ -40,7 +40,7 @@ redirect_from:
 * 1990-1995: National Forest Data Management Center (NFDMC), Dehradun, Govt. of India, India.
   * Technical Assistant
   
-<span style="color:green">Prefessional Service</span>
+## <span style="color:green">Prefessional Service</span>
 
 * Co-chair (2020): SIAM Data Mining Panel (2020), ICDM Panel (2020), ACM SIGSPATIAL Workshops (2020)
 * PC (2020): ICDM, AAAI, ECML/PKDD, BigData Congress, CIKM, ...
