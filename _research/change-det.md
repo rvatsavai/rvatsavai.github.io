@@ -6,6 +6,4 @@ permalink: /research/change-det
 location: "ORNL and NCSU"
 ---
 
-Describe change detection.
-Provide more details.
-List papers.
+Research on patch based change detection using probabilistic and deep learning approaches ...
