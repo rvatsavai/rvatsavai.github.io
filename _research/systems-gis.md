@@ -10,8 +10,8 @@ Research on WebGIS ...
   <li>WebGIS: I made several original and novel contributions to the advancement of WebGIS through the UMN-MapServer. 
     UMN-MapServer was at the forefront of WebGIS development in the early 2000 and to-date still one of the more popular 
     WebGIS in the world (more than 50,000 registered users). In particular, I (i) demonstrated the first load-balancing 
-    client server architecture based on the tradeoffs between computation and communication; costs and (ii) developed 
-    the first online geo-processing capabilities in the MapServer. UMN-MapServer is a trendsetter: many of the innovations 
+    client server architecture based on the tradeoffs between computation and communication costs; and (ii) developed 
+    the first online geo-processing (OLGP) capabilities in the MapServer. UMN-MapServer is a trendsetter: many of the innovations 
     in MapServer predate OGC standards, and the leading Free and Open Source Software for Geospatial 
     (https://wiki.osgeo.org/wiki/FOSS4G) has its roots in GRASS and MapServer communities. In addition to the strong 
     worldwide user base, MapServer research was published in leading conferences. 
