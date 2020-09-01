@@ -17,7 +17,7 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
         solution requires computation of covariance matrix  and its inversion for each time series. To overcome these limitations, we 
         chose a exponential covariance function that captures not only the periodic nature of crop growth (phenology) and but also 
         efficient as the resulting covariance is a Toeplitz matrix. Our new solution, GPChange, has reduced complexity to O(t<sup>2</sup>)
-        and memory to O(t<sup>1</sup>). In addition, we developed mixed parallel algorithms to take advantage of heterogeneous 
+        and memory to O(t). In addition, we developed mixed parallel algorithms to take advantage of heterogeneous 
         compute clusters at Oak Ridge leardership computing facility. Our experiments showed significant reduction in computing time 
         from days to seconds compared to the standard Cholesky decomposition based GP learning on a 128 node SGI Altrix ICE 8200 cluster. 
         This solution was operationalized at Oak Ridge for regional scale continuous biomass monitoring using MODIS satellite based daily 
