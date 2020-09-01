@@ -29,7 +29,8 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
           <li>Varun Chandola, Ranga Raju Vatsavai: A Gaussian Process Based Online Change Detection Algorithm for 
             Monitoring Periodic Time Series. SIAM Data Mining (SDM) 2011: 95-106 </li>
           <li>Varun Chandola, Ranga Raju Vatsavai: Scalable Time Series Change Detection for Biomass Monitoring 
-            Using Gaussian Process. CIDU 2010: 69-82 (Selected as one of the <span style="color:red">six best papers at the NASA/CIDU</span> and 
+            Using Gaussian Process. NASA Conference on Intelligent Data Understanding (CIDU) 2010: 69-82.
+            (Selected as one of the <span style="color:red">six best papers at the NASA/CIDU</span> and 
             published in the special issue of Statistical Analysis and Data Mining Journal)</li>
         </ul>
       </li>        
