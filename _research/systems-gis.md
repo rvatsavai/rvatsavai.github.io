@@ -7,7 +7,7 @@ permalink: /research/systems-gis
 Research on WebGIS ...
 
 <ul>
-  <li><span style="color:green">WebGIS</span>: I made several original and novel contributions to the advancement of WebGIS through the UMN-MapServer. 
+  <li><span style="color:red">WebGIS</span>: I made several original and novel contributions to the advancement of WebGIS through the UMN-MapServer. 
     UMN-MapServer was at the forefront of WebGIS development in the early 2000 and to-date still one of the more popular 
     WebGIS in the world (more than 50,000 registered users). In particular, I (i) demonstrated the first load-balancing 
     client server architecture based on the tradeoffs between computation and communication costs; and (ii) developed 
