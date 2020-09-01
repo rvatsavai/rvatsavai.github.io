@@ -1,7 +1,7 @@
 ---
 title: "Systems Research (GeoSimulations/Computational Steering)"
 collection: research
-permalink: /research/systems-geosim
+permalink: /research/systems-comp-steering
 ---
 
 Research on computational steering ...
@@ -23,9 +23,8 @@ Research on computational steering ...
     <span style="color:blue">inagural Microsoft/ACM SIGSPATIAL student research competition (2016).</span>
     
     <ul>
-      <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Derek B. van Berkel, Ross K. Meentemeyer: 
-      FUTURES-AMR: Towards an Adaptive Mesh Refinement Framework for Geosimulations. GIScience 2018: 16:1-16:15 
-      <span style="color:green">(Nominated for the Best Paper)</span>
+      <li>Ranga Raju Vatsavai: Intertwining Computational Steering with Geosimulations, UCGIS-2016. 
+      <span style="color:green">(Research Priority)</span>
       </li>
       <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Abhinav Ashish, Ross K. Meentemeyer: tFUTURES: 
       Computational Steering for Geosimulations. SIGSPATIAL/GIS 2017: 27:1-27:10 </li>
