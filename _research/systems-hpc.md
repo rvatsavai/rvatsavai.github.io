@@ -24,11 +24,10 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
         NDVI time series. In addition to publishing several papers in leading conferences and journals, the project won ORNL Lab Director's
         best LDRD project for the year 2010.
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>1</li>
+          <li>2</li>
+          <li>2</li>
         </ul>
-        
       </li>        
      </ul> 
   </li>
