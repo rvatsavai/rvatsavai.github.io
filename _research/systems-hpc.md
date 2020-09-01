@@ -1,10 +1,10 @@
 ---
-title: "Systems Research (GeoSimulations/Computational Steering)"
+title: "Systems Research (HPC)"
 collection: research
 permalink: /research/systems-hpc
 ---
 
-Research on efficient parallel solutions ...
+Research on scaling machine learning algorithms, graph databases, geosimulations ...
 
 <ul>
   <li><span style="color:red">Computational Steering:</span> Geographic modeling using geosimulations is a 
