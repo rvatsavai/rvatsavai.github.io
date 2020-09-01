@@ -7,7 +7,7 @@ permalink: /research/systems-hpc
 Research on scaling machine learning algorithms, graph databases, geosimulations ...
 
 <ul>
-  <li><span style="color:red">Computational Steering:</span> Geographic modeling using geosimulations is a 
+  <li><span style="color:red">Scalable Machine Learning:</span> Geographic modeling using geosimulations is a 
     popular approach to explore outcomes from interacting geographic processes in a region. Geosimulations account for 
     space, time, and complex spatial and spatiotemporal relationships to explore what-if scenarios and their potential 
     impact in a region. However, most simulation systems are designed as black boxes, that take initial inputs from the 
