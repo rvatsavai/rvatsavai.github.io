@@ -54,7 +54,8 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
         resolutions than the other tiles (e.g., to account for important and critical events such as flooding). To account
         for such scenarios, we developed a novel provisioning system, <span style="color:red">FUTURES-DPE</span>, 
           that dynamically allocates additional computing 
-        resources to the required tiles at run-time. This extension, for the first time allowed geosimulations to explore
+        resources to the required tiles at run-time. This extension along with our computational steering work, 
+        for the first time allowed geosimulation modelers to explore
         what-if scenarios on-the-fly. The <span style="color:red"> FUTURES-AMR</span> work is nominated for best 
         paper award at the top ranking biennial GIScience 2018 conference.
         
@@ -63,7 +64,7 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
             towards dynamic provisioning and execution of geosimulations in HPC environments." SIGSPATIAL/GIS 2018: 464-467 </li>
           <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Derek B. van Berkel, Ross K. Meentemeyer: "FUTURES-AMR: 
             Towards an Adaptive Mesh Refinement Framework for Geosimulations." GIScience 2018: 16:1-16:15 
-            (nonimanted for best paper)</li>
+            (<span style="color:red">nonimanted for the best paper</span>)</li>
           <li>Qiang Zhang, Ranga Raju Vatsavai, Ashwin Shashidharan, Derek B. van Berkel: Agent based urban growth 
             modeling framework on Apache Spark. BigSpatial@SIGSPATIAL 2016: 50-59 </li>
           <li>Ashwin Shashidharan, Derek B. van Berkel, Ranga Raju Vatsavai, Ross K. Meentemeyer: "pFUTURES: 
