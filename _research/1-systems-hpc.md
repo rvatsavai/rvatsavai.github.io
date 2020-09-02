@@ -1,7 +1,7 @@
 ---
-title: "Systems Research (HPC)"
+title: "Systems Research (HPC/ML)"
 collection: research
-permalink: /research/systems-hpc
+permalink: /research/1-systems-hpc
 ---
 
 Research on scaling machine learning algorithms, graph databases, geosimulations, in-situ analytics, ...
