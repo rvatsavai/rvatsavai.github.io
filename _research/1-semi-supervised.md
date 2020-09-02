@@ -1,7 +1,7 @@
 ---
 title: "Semi-supervised Learning"
 collection: research
-permalink: /research/1.semi-supervised
+permalink: /research/1-semi-supervised
 location: "ORNL and NCSU"
 ---
 
