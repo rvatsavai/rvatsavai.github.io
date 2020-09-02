@@ -53,13 +53,13 @@ Research on multi-* data mining and machine learning, ...
     Computer Science, Vol. 9, 2012; Demo paper at ICDM 2012), and has been extensively used in several NGA, DOD, 
     and DHS sponsored projects at the ORNL.
     
-     <ul>
+   <ul>
       <li>Ranga Raju Vatsavai: Rapid Damage eXplorer (RDX): A Probabilistic Framework for Learning Changes from 
         Bitemporal Images. IEEE International Conference on Data Mining (ICDM: Demo Paper) 2012: 906-909</li>
       <li>Ranga Raju Vatsavai, Jordan Graesser: Probabilistic Change Detection Framework for Analyzing 
         Settlement Dynamics Using Very High-resolution Satellite Imagery. ICCS 2012: 907-916</li>
       <li>Varun Chandola, Ranga Raju Vatsavai: A Gaussian Process Based Online Change Detection Algorithm for 
         Monitoring Periodic Time Series. SIAM Data Mining Conference (SDM 2011): 95-106 </li>
-     </ul>
+   </ul>
   </li>
 </ul>
