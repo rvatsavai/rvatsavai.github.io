@@ -35,6 +35,8 @@ Research on identifying complex objects, multiple instance learning, ...
     Vol. 9, 2012; Demo paper at ICDM 2012), and has been extensively used in several NGA, DOD, and DHS sponsored 
     projects at the ORNL. 
     <ul>
+      <li>A. Karpatne, Z. Jiang, R. R. Vatsavai, S. Shekhar and V. Kumar, "Monitoring Land-Cover Changes: 
+        A Machine-Learning Perspective," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 8-21, June 2016, doi: 10.1109/MGRS.2016.2528038.</li>
       <li>Clayton Connors, Ranga Raju Vatsavai: Semi-supervised deep generative models for change detection 
         in very high resolution imagery. IGARSS 2017: 1063-1066 </li>
       <li>Zexi Chen, Bharathkumar Ramachandra, Ranga Raju Vatsavai: Hierarchical change detection 
