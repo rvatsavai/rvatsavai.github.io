@@ -10,10 +10,10 @@ Research on identifying complex objects, multiple instance learning, ...
 
 <ul>
   <li>Easy availability of very high-resolution (VHR) satellite imagery in the past decade has opened up newer applications 
-    such as buiding detection, urban neighborhood classification, plantation counting and mapping, etc. However, traditional pixel
-    based (single instance) classificaiton schemes proven to be inadequate as the size of objects are much bigger than the
+    such as building detection, urban neighborhood classification, plantation counting and mapping, etc. However, traditional pixel
+    based (single instance) classification schemes proven to be inadequate as the size of objects are much bigger than the
     individual (or first/second order neighborhood) pixels. In addition to individual object (e.g., building) recognition,
-    one can expoloit the much bigger spatial context (small image patch) to recognize complex facilities, such as, energy
+    one can exploit  the much bigger spatial context (small image patch) to recognize complex facilities, such as, energy
     infrastructure (thermal, nuclear power plants) and urban neighborhoods (e.g., formal vs. informal settlements). We developed
     three classes of algorithms that exploit spatial context in VHR image classification. 
     In the first thread of research, we developed several novel image features
@@ -21,8 +21,8 @@ Research on identifying complex objects, multiple instance learning, ...
     spatial context is exploited via image segmentation and object based neighborhood classification. Finally, we developed a novel
     multiple instance learning algorithm that solves limitations with image segmentation and single instance classification. Our algorithm,
     Gaussian Multiple Instance Learning (GMIL) shown to be not only accurate in complex object classification, but also very efficient
-    as compared to the other state of the art single instance and multiple instance learning algorithms. Inaddtion, these algorithms
-    are parallized on heterogenous architectures at Oak Ridge, that allowed utilization of patch based urban neighborhood classification
+    as compared to the other state of the art single instance and multiple instance learning algorithms. In addition, these algorithms
+    are parallelized on heterogenous architectures at Oak Ridge, that allowed utilization of patch based urban neighborhood classification
     in global settlement mapping and high-resolution population distribution estimates. This work is not only in practical use, but also
     published in major conferences like ACM SIGKDD and IEEE JSTARS. This work is also resulted in a US patent.
     <ul>
