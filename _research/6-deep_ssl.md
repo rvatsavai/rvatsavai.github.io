@@ -33,13 +33,13 @@ Research on Mean Teacher and  Generative Adversarial Networks (GANs) based semi-
     consistency regularization based semi-GAN significantly improves its performance and achieves new state-of-the-art performance 
     among GAN-based SSL approaches.
   
-    <ul>
+   <ul>
       <li>Zexi Chen, Benjamin Dutton, Bharathkumar Ramachandra, Tianfu Wu, and Ranga Raju Vatsavai (2020): 
         "Local Clustering with Mean Teacher for Semi-supervised learning." 25th International Conference on Pattern Recognition. 
       </li>
       <li>Zexi Chen, Bharathkumar Ramachandra, Ranga Raju Vatsavai (2020): Consistency Regularization with Generative Adversarial 
         Networks for Semi-Supervised Image Classification. CoRR abs/2007.03844 (under review).
       </li>   
-    </ul>
+   </ul>
   </li>
 </ul>
