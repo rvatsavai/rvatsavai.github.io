@@ -20,7 +20,7 @@ Research on identifying anomalous patterns in climate change data, videos, ...
     piecewise parametric assumption and generalizes the Mahalanobis distance across distributions of different 
     dimensionalities. This method is shown to be very effective in mining contiguous spatiotemporal anomalous regions 
     from meteorological fields and shown to be accurate than current standard approaches in climatology. We also developed
-    an efficient and parallel anaomaly detection technique based on Gaussian Process (GP) regression. 
+    an efficient and parallel anomaly detection technique based on Gaussian Process (GP) regression. 
     <ul>
       <li>Bharathkumar Ramachandra, Benjamin Dutton, Ranga Raju Vatsavai: Anomalous cluster 
         detection in spatiotemporal meteorological fields. Statistical Analysis and Data 
@@ -39,7 +39,7 @@ Research on identifying anomalous patterns in climate change data, videos, ...
   every method requires a computationally expensive model building phase requiring expert knowledge which may not be 
   practical for real applications, and (3) Many previous works focus on detecting only specific deviations from normality 
   as anomalous. We did a comprehensive survey of this field, and a survey article is under (2nd round) review at IEEE TPAMI.
-  To overcome, some of these limitations, we devloped a novel method that uses a Siamese convolutional neural network (CNN) 
+  To overcome, some of these limitations, we developed a novel method that uses a Siamese convolutional neural network (CNN) 
   to learn a distance function between a pair of video patches (spatiotemporal regions of video). The learned distance 
   function, which is not specific to the target video, is used to measure the distance between each video patch in the 
   testing video and the video patches found in normal training video. Experiments on 3 challenging target benchmark datasets
