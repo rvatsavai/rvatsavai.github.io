@@ -27,7 +27,8 @@ Research on computational steering ...
       <span style="color:green">(Research Priority)</span>
       </li>
       <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Abhinav Ashish, Ross K. Meentemeyer: tFUTURES: 
-      Computational Steering for Geosimulations. ACM SIGSPATIAL/GIS 2017: 27:1-27:10 </li>
+      Computational Steering for Geosimulations. The ACM SIGSPATIAL International Conference on 
+      Advances in Geographic Information Systems (SIGSPATIAL/GIS) 2017: 27:1-27:10 </li>
      </ul>
   </li>
 </ul>
