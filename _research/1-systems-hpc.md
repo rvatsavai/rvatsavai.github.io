@@ -95,7 +95,7 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
            </li>
          </ul>
          
-       </li>
+   </li>
     </ul>
   </li>
 </ul>
