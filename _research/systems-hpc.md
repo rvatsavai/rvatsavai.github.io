@@ -4,7 +4,7 @@ collection: research
 permalink: /research/systems-hpc
 ---
 
-Research on scaling machine learning algorithms, graph databases, geosimulations ...
+Research on scaling machine learning algorithms, graph databases, geosimulations, in-situ analytics, ...
 
 <ul>
   <li><span style="color:red">Scaling Machine Learning Algorithms</span>
@@ -77,4 +77,25 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
       </li>        
      </ul> 
   </li>  
+  <li><span style="color:red">In Situ Analytics:</span>
+     <ul>
+       <li> Hi-resolution simulations on exascale supercomputers are producing petabytes of data. Storing
+         and retriving such large dataset for analytics is a challenging task. In situ analytics aims at
+         on-the-fly data compression and summarization before the data hits secondary storage. 
+         Summarization and compression at current and future scales requires a framework for 
+         developing and benchmarking algorithms. We developed a novel framework by integrating existing, 
+         production-ready projects in VTK and demonstrated scaling results of two particular algorithms 
+         that serve as exemplars for summarization: a wavelet-based data reduction filter and a generator 
+         for creating image-like databases of extracted features (isocontours in this case). Both these
+         solutions support browser-based, post-hoc, interactive visualization of the summary for decision-making. 
+         We also demonstrated weak-scaling on a distributed multi-GPU system.
+         <ul>
+           <li>David C. Thompson, Sébastien Jourdain, Andrew C. Bauer, Berk Geveci, Robert Maynard, 
+             Ranga Raju Vatsavai, Patrick O'Leary: In Situ Summarization with VTK-m. ISAV@SC 2017: 32-36
+           </li>
+         </ul>
+         
+       </li>
+    </ul>
+  </li>
 </ul>
