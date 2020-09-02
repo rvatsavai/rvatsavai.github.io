@@ -1,7 +1,7 @@
 ---
 title: "Systems Research (GeoSimulations/Computational Steering)"
 collection: research
-permalink: /research/systems-comp-steering
+permalink: /research/2-systems-comp-steering
 ---
 
 Research on computational steering ...
