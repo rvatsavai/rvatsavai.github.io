@@ -16,7 +16,7 @@ Research on WebGIS ...
     (https://wiki.osgeo.org/wiki/FOSS4G) has its roots in GRASS and MapServer communities. In addition to the strong 
     worldwide user base, MapServer research was published in leading conferences. 
     
-    <ul>
+   <ul>
       <li>Ranga Raju Vatsavai, Thomas E. Burk, Stephen Lime, Marco Hugentobler, Andreas Neumann, Christian Strobl: 
       Open-Source GIS. Springer Handbook of Geographic Information 2012: 579-595 </li>
       <li>Ranga Raju Vatsavai, Thomas E. Burk, Stephen Lime: University of Minnesota (UMN) Map Server. 
@@ -29,7 +29,7 @@ Research on WebGIS ...
       <li>Ranga Raju Vatsavai, Thomas E. Burk, B. Tyler Wilson, Shashi Shekhar: A Web-based browsing and spatial 
       analysis system for regional natural resource analysis and mapping. The ACM SIGSPATIAL International 
       Conference on Advances in Geographic Information Systems (SIGSPATIAL/GIS) 2000: 95-101 </li>
-     </ul>
+    </ul>
   </li>
 </ul>
       
