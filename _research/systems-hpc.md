@@ -62,7 +62,8 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
         
         <ul>
           <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Ross K. Meentemeyer: "FUTURES-DPE: 
-            towards dynamic provisioning and execution of geosimulations in HPC environments." SIGSPATIAL/GIS 2018: 464-467 </li>
+            towards dynamic provisioning and execution of geosimulations in HPC environments." 
+            The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL/GIS) 2018: 464-467 </li>
           <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Derek B. van Berkel, Ross K. Meentemeyer: "FUTURES-AMR: 
             Towards an Adaptive Mesh Refinement Framework for Geosimulations." GIScience 2018: 16:1-16:15 
             (<span style="color:red">nonimanted for the best paper</span>)</li>
