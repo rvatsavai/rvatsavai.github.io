@@ -9,13 +9,14 @@ location: "ORNL and NCSU"
 Research on identifying complex objects, multiple instance learning, ...
 
 <ul>
-  <li>Availability of very high-resolution (VHR) satellite imagery in the past decade has opened up newer applications 
-    such as buiding detection, urban neighborhood classification, plantation mapping, etc. However, traditional pixel
-    based (single instance) classificaiton schemes proven to be inadequate as the size objects are much bigger than the
+  <li>Easy availability of very high-resolution (VHR) satellite imagery in the past decade has opened up newer applications 
+    such as buiding detection, urban neighborhood classification, plantation counting and mapping, etc. However, traditional pixel
+    based (single instance) classificaiton schemes proven to be inadequate as the size of objects are much bigger than the
     individual (or first/second order neighborhood) pixels. In addition to individual object (e.g., building) recognition,
     one can expoloit the much bigger spatial context (small image patch) to recognize complex facilities, such as, energy
     infrastructure (thermal, nuclear power plants) and urban neighborhoods (e.g., formal vs. informal settlements). We developed
-    three classes of algorithms that exploit spatial context. In the first thread of research, we developed several novel image features
+    three classes of algorithms that exploit spatial context in VHR image classification. 
+    In the first thread of research, we developed several novel image features
     that exploit spatial, structural, and contextual properties, and used them in machine learning models. In second thread of research,
     spatial context is exploited via image segmentation and object based neighborhood classification. Finally, we developed a novel
     multiple instance learning algorithm that solves limitations with image segmentation and single instance classification. Our algorithm,
