@@ -14,13 +14,13 @@ Research on computational steering ...
     user and produce final outputs at the completion of simulation. As a result, exploring what-if scenarios are cumbersome 
     and time consuming. In addition, there is no easy way to interact with the simulation system (e.g., visualization). 
     To overcome these limitations, we developed a computational steering framework that allows web browser based visualization 
-    and control of geosimulations. This First of a Kind computational steering system enables comptationally expensive geosimulations
+    and control of geosimulations. This First of a Kind computational steering system enables computationally  expensive geosimulations
     to be modified during the middle of the simulation with new inputs (constraints) without stopping and restarting the simulation,
     thus allowing for exploration of what-if scenarios. 
   </li>
   <li>This initial work was presented as a <span style="color:green">research priority</span> to the 
     UCGIS summer assembly (2016), and our graduate student, Ashwin Shashidharan (now at ESRI), won the 
-    <span style="color:blue">inagural Microsoft/ACM SIGSPATIAL student research competition (2016).</span>
+    <span style="color:blue">inaugural  Microsoft/ACM SIGSPATIAL student research competition (2016).</span>
     
    <ul>
       <li>Ranga Raju Vatsavai: Intertwining Computational Steering with Geosimulations, UCGIS-2016. 
