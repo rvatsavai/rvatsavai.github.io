@@ -22,8 +22,8 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
         compute clusters at Oak Ridge leadership computing facility. Our experiments showed significant reduction in computing time 
         from days to seconds compared to the standard Cholesky decomposition based GP learning on a 128 node SGI Altrix ICE 8200 cluster. 
         This solution was operationalized at Oak Ridge for regional scale continuous biomass monitoring using MODIS satellite based daily 
-        NDVI time series. In addition to publishing several papers in leading conferences and journals, the project won ORNL Lab Director's
-        best LDRD project for the year 2010.
+        NDVI time series. In addition to publishing several papers in leading conferences and journals, the project won 
+        the <span style="color:red">ORNL Lab Director's best LDRD project award </span> for the year 2010.
         <ul>
           <li>Varun Chandola, Ranga Raju Vatsavai: A scalable gaussian process analysis algorithm for biomass monitoring. 
             Statistical Analysis and Data Mining 4(4): 430-445 (2011) </li>
