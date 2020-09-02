@@ -11,7 +11,8 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
      <ul>
       <li>Gaussian Process (GP) Learning: GP based approaches are increasingly being used as a kernel machine learning tool for 
         nonparametric regression and classification. We developed several novel algorithms based on GP learning for classification, 
-        change detection and anomaly detection. Despite great advantages of GP in various machine learning tasks, its wide adaption is limited due
+        change detection and anomaly detection. Despite great advantages of GP in various machine learning tasks, in particular 
+        for spatial and temporal data, its wide adaption is limited due
         to it's high computational complexity, O(t<sup>3</sup>), and memory footprint, O(t<sup>2</sup>), where t is the length of time 
         series. In applications like monitoring crop biomass at regional scales, one has to deal with billions of time series, and the 
         solution requires computation of covariance matrix  and its inversion for each time series. To overcome these limitations, we 
