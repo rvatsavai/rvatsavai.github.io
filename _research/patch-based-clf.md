@@ -27,7 +27,6 @@ Research on identifying complex objects, multiple instance learning, ...
   </li>
   <li>. 
     <ul>
-      <li></li>
       <li>Vatsavai, Ranga Raju, Graesser, Jordan B., and Bhaduri, Budhendra L. Model for mapping settlements. 
         United States: Patent Publication Number: 20150055820, 2016.</li>
       <li>Manu Sethi, Yupeng Yan, Anand Rangarajan, Ranga Raju Vatsavai, Sanjay Ranka: 
