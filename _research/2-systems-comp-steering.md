@@ -22,13 +22,13 @@ Research on computational steering ...
     UCGIS summer assembly (2016), and our graduate student, Ashwin Shashidharan (now at ESRI), won the 
     <span style="color:blue">inagural Microsoft/ACM SIGSPATIAL student research competition (2016).</span>
     
-    <ul>
+   <ul>
       <li>Ranga Raju Vatsavai: Intertwining Computational Steering with Geosimulations, UCGIS-2016. 
       <span style="color:green">(Research Priority)</span>
       </li>
       <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Abhinav Ashish, Ross K. Meentemeyer: tFUTURES: 
       Computational Steering for Geosimulations. The ACM SIGSPATIAL International Conference on 
       Advances in Geographic Information Systems (SIGSPATIAL/GIS) 2017: 27:1-27:10 </li>
-     </ul>
+    </ul>
   </li>
 </ul>
