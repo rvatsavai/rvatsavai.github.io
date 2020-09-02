@@ -2,7 +2,7 @@
 title: "Anomaly Detection (Spatiotemporal, Videos)"
 collection: research
 type: "Research on identifying anomalous patterns in climate change data, videos, ..."
-permalink: /research/anomalies
+permalink: /research/4-anomalies
 location: "ORNL and NCSU"
 ---
 
