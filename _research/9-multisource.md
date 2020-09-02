@@ -7,13 +7,13 @@ permalink: /research/9-multisource
 Research on multi-* data mining and machine learning, ...
 
 <ul>
-  <li> <span style="color:red">Classification:</span> In many practical situations, 
-    data is generated from multiple sources 
-  (e.g., satellite images which are modeled as continuous random variables, and GIS data like soil maps, 
-  slope, aspect, etc., which are modeled as discrete random variables), multiple sensors (e.g., optical
-   vs. radar images), multitemporal (MODIS daily NDVI data), and multi-resolution (Landsat ETM+ 30 meter
-   vs DigitalGlobe's WorldView-3 data at 31 cm panchromatic, 1.24 m multispectral, and 3.7 m short-wave 
-   infrared resolution images). In the past, we developed a mixture model based semi-supervised learning
+  <li> <span style="color:red">Classification:</span> 
+    In many practical situations, data is generated from multiple sources (e.g., satellite image datasets 
+    which are often modeled as continuous random variables, and GIS data like soil maps, slope, aspect, etc., 
+    which are modeled as discrete random variables), multiple sensors (e.g., optical vs. radar images), 
+    multitemporal (MODIS daily NDVI data), and multi-resolution (Landsat ETM+ 30 meter vs DigitalGlobe's 
+    WorldView-3 data at 31 cm panchromatic, 1.24 m multispectral, and 3.7 m short-wave infrared resolution 
+    images). In the past, we developed a mixture model based semi-supervised learning
    that jointly exploits features that are continuous and discrete. Our recent work is focused on joint
    exploitation of signals from high spatial and spectral resolution images (but low temporal resolution)
    and high temporal (but low spatial and spectral) resolution images for crop classification.  Traditionally, 
