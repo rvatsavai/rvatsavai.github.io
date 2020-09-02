@@ -25,8 +25,6 @@ Research on identifying complex objects, multiple instance learning, ...
     are parallized on heterogenous architectures at Oak Ridge, that allowed utilization of patch based urban neighborhood classification
     in global settlement mapping and high-resolution population distribution estimates. This work is not only in practical use, but also
     published in major conferences like ACM SIGKDD and IEEE JSTARS. This work is also resulted in a US patent.
-  </li>
-  <li>. 
     <ul>
       <li>Vatsavai, Ranga Raju, Graesser, Jordan B., and Bhaduri, Budhendra L. Model for mapping settlements. 
         United States: Patent Publication Number: 20150055820, 2016.</li>
@@ -39,4 +37,4 @@ Research on identifying complex objects, multiple instance learning, ...
         Remote. Sens. 5(4): 1164-1176 (2012)</li>       
     </ul>
   </li>
-  </ul>
+</ul>
