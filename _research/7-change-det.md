@@ -26,9 +26,9 @@ Research on patch based change detection using probabilistic and deep learning a
   <li>In addition to the biomass monitoring (which is critical for food security), my research had also resulted 
     in a key capability for monitoring man-made critical infrastructures which allows comparing multi-sensor and 
     multi-resolution images which may not have been perfectly georegistered. Traditional remote sensing based change
-    detection approaches compare individual (or first/second order neighborhood) pixels to idenfify changes. However,
+    detection approaches compare individual (or first/second order neighborhood) pixels to identify changes. However,
     image to image and map to image registrations, through increasingly becoming accurate, contains errors (often by several
-    pixels), as a result direct pixel-wise comparision is not accurate. In addition, often changes happen at a bigger spatial
+    pixels), as a result direct pixel-wise comparison is not accurate. In addition, often changes happen at a bigger spatial
     footprint than individual pixels. To overcome these limitations, we developed a novel and unique image patch-based 
     probabilistic change detection that shown to be not only accurate than traditional methods, but also allows 
     multi-resolution and multi-sensor data. The results were published in leading venues (Procedia Computer Science, 
