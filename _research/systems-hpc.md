@@ -39,12 +39,31 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
   
   <li><span style="color:red">Scaling GeoSimulations:</span>
      <ul>
-      <li>Gaussin Process Learning: 
+      <li>Geosimulations are widely used in urban growth modeling, environmental studies, disease spread modeling,
+        traffic modeling, and land-use and land-cover changes. Geosimulations are increasingly becoming sophisticated,
+        however computational complexity has also increasing along with increase in spatial/temporal extents and final resolutions.
+        To address these computational and I/O challenges, we developed various parallelization strategies for scaling cellular automation 
+        based FUTURES model in distributed computing environment. In particular, we developed intelligent strategies for data
+        partitioning, task scheduling, and task synchronization. These strategies have resulted in a highly scalable 
+        <span style="color:red">pFUTURES</span> model, which made it possible to study urban simulations for large spatial and temporal extents at
+        a finer spatial resolution than previously reported in the literature. In addition, we developed an adaptive
+        mesh refinement strategy, <span style="color:red"> FUTURES-AMR</span>, that further reduced computation 
+          and memory requirements for large scale simulations. 
+        Typical data parallel approaches in geosimulations use static partitioning strategy along with load-balancing, 
+        however in many practical situations some tiles (data partitions) may require the simulations to run at finer 
+        resolutions than the other tiles (e.g., to account for important and critical events such as flooding). To account
+        for such scenarios, we developed a novel provisioning system, <span style="color:red">FUTURES-DPE</span>, 
+          that dynamically allocates additional computing 
+        resources to the required tiles at run-time. This extension, for the first time allowed geosimulations to explore
+        what-if scenarios on-the-fly. The <span style="color:red"> FUTURES-AMR</span> work is nominated for best 
+        paper award at the top ranking biennial GIScience 2018 conference.
+        
         <ul>
           <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Ross K. Meentemeyer: "FUTURES-DPE: 
             towards dynamic provisioning and execution of geosimulations in HPC environments." SIGSPATIAL/GIS 2018: 464-467 </li>
           <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Derek B. van Berkel, Ross K. Meentemeyer: "FUTURES-AMR: 
-            Towards an Adaptive Mesh Refinement Framework for Geosimulations." GIScience 2018: 16:1-16:15 </li>
+            Towards an Adaptive Mesh Refinement Framework for Geosimulations." GIScience 2018: 16:1-16:15 
+            (nonimanted for best paper)</li>
           <li>Qiang Zhang, Ranga Raju Vatsavai, Ashwin Shashidharan, Derek B. van Berkel: Agent based urban growth 
             modeling framework on Apache Spark. BigSpatial@SIGSPATIAL 2016: 50-59 </li>
           <li>Ashwin Shashidharan, Derek B. van Berkel, Ranga Raju Vatsavai, Ross K. Meentemeyer: "pFUTURES: 
