@@ -60,7 +60,7 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
         what-if scenarios on-the-fly. The <span style="color:red"> FUTURES-AMR</span> work is nominated for best 
         paper award at the top ranking biennial GIScience 2018 conference.
         
-        <ul>
+   <ul>
           <li>Ashwin Shashidharan, Ranga Raju Vatsavai, Ross K. Meentemeyer: "FUTURES-DPE: 
             towards dynamic provisioning and execution of geosimulations in HPC environments." 
             The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL/GIS) 2018: 464-467 </li>
@@ -73,7 +73,7 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
           <li>Ashwin Shashidharan, Derek B. van Berkel, Ranga Raju Vatsavai, Ross K. Meentemeyer: "pFUTURES: 
             A Parallel Framework for Cellular Automaton Based Urban Growth Models." The 
             International Conference on Geographic Information Science (GIScience) 2016: 163-177 </li>
-        </ul>        
+     </ul>        
       </li>        
      </ul> 
   </li>  
