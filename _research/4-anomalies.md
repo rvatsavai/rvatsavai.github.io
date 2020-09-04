@@ -14,12 +14,12 @@ Research on identifying anomalous patterns in climate change data, videos, ...
     and contextual nature of anomalies (e.g., heat waves) coupled 
     with the real-valued, seasonal, multimodal, highly correlated, and gridded nature of spatiotemporal (climate variable)
     observations poses a multitude of challenges. Existing anomaly detection methods have limitations in 
-    the specific setting of real-valued areal spatiotemporal data. To address these challenges, we develop a novel method 
+    the specific setting of real-valued areal spatiotemporal data. To address these challenges, we developed a novel method 
     for extreme event detection in meteorological datasets that follows from well known distribution-based 
     anomaly detection approaches. This method models spatial and temporal correlations explicitly through a 
     piecewise parametric assumption and generalizes the Mahalanobis distance across distributions of different 
     dimensionalities. This method is shown to be very effective in mining contiguous spatiotemporal anomalous regions 
-    from meteorological fields and shown to be accurate than current standard approaches in climatology. We also developed
+    from meteorological fields and  accurate than current standard approaches in climatology. We also developed
     an efficient and parallel anomaly detection technique based on Gaussian Process (GP) regression. 
     <ul>
       <li>Bharathkumar Ramachandra, Benjamin Dutton, Ranga Raju Vatsavai: Anomalous cluster 
