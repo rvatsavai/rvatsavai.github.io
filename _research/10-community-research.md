@@ -8,8 +8,10 @@ location: "ORNL and NCSU"
 Community efforts to develop new research thrusts, ...
 
 <ul>
-  <li>I actively led, contributed, and participated to several community wide efforts to develop new research priorities.
-  In particular, I lead a multi-national laboratory and university efforts to develop a goals, objectives, and requirements
+  <li>I actively led, contributed, and participated to several community wide efforts to develop new research priorities,
+    white papers, and workshops. </li>
+  
+  <li> In particular, I lead a multi-national laboratory and university efforts to develop a goals, objectives, and requirements
   (GOR) report for the National Nuclear Security Administration/Nonproliferation Research and Development (NNSA/NA-22). The work
   included studying the state of the art, identifying the gaps, and developing future requirements of Geospatial Image Mining 
   for nuclear nonproliferation
