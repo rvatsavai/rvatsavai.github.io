@@ -55,8 +55,8 @@ Community efforts to develop new research thrusts, ...
   </ul>
   </li>
   
-  <li> Working with scientific leaders from multiple discplines including bio, geo, and climate, developed a
-  research roadmap, that is published a invited paper at the IEEE International Congress on Big Data, BigData Congress.
+  <li> Working with scientific leaders from multiple discplines including bio, geo, and climate; and developed a
+  research roadmap that is published as an invited paper at the IEEE International Congress on Big Data, BigData Congress.
   <ul>
     <li>Sushil K. Prasad, Danial Aghajarian, Michael McDermott, Dhara Shah, Mohamed F. Mokbel, Satish Puri, 
       Sergio J. Rey, Shashi Shekhar, Yiqun Xe, Ranga Raju Vatsavai, Fusheng Wang, Yanhui Liang, Hoang Vo, 
