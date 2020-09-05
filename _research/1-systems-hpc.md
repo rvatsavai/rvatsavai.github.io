@@ -9,21 +9,24 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
 <ul>
   <li><span style="color:red">Scaling Machine Learning Algorithms</span>
      <ul>
-      <li>Gaussian Process (GP) Learning: GP based approaches are increasingly being used as a kernel machine learning tool for 
-        nonparametric regression and classification. We developed several novel algorithms based on GP learning for classification, 
-        change detection and anomaly detection. Despite great advantages of GP in various machine learning tasks, in particular 
-        for spatial and temporal data, its wide adaption is limited due
-        to it's high computational complexity, O(t<sup>3</sup>), and memory footprint, O(t<sup>2</sup>), where t is the length of time 
-        series. In applications like monitoring crop biomass at regional scales, one has to deal with billions of time series, and the 
-        solution requires computation of covariance matrix  and its inversion for each time series. To overcome these limitations, we 
-        chose a exponential covariance function that captures not only the periodic nature of crop growth (phenology) and but also 
-        efficient as the resulting covariance is a Toeplitz matrix. Our new solution, GPChange, has reduced complexity to O(t<sup>2</sup>)
-        and memory to O(t). In addition, we developed mixed parallel algorithms to take advantage of heterogeneous 
-        compute clusters at Oak Ridge leadership computing facility. Our experiments showed significant reduction in computing time 
-        from days to seconds compared to the standard Cholesky decomposition based GP learning on a 128 node SGI Altrix ICE 8200 cluster. 
-        This solution was operationalized at Oak Ridge for regional scale continuous biomass monitoring using MODIS satellite based daily 
-        NDVI time series. In addition to publishing several papers in leading conferences and journals, the project won 
-        the <span style="color:red">ORNL Lab Director's best LDRD project award </span> for the year 2010.
+      <li>Gaussian Process (GP) Learning: GP based approaches are increasingly being used as a kernel 
+        machine learning tool for nonparametric regression and classification. We developed several novel 
+        algorithms based on GP learning for classification, change detection and anomaly detection. Despite 
+        great advantages of GP in various machine learning tasks, in particular for spatial and temporal data, 
+        its wide adaption by the GIS community is limited due to its high computational complexity, 
+        O(t<sup>3</sup>), and memory footprint, O(t<sup>2</sup>), where t is the length of time series. 
+        In applications like monitoring crop biomass at regional scales, one has to deal with billions of 
+        time series, and the solution requires computation of covariance matrix and its inversion for each time 
+        series. To overcome these limitations, we chose an exponential covariance function that captures not 
+        only the periodic nature of crop growth (phenology) and but also efficient as the resulting covariance 
+        is a Toeplitz matrix. Our new solution, GPChange, has reduced complexity to O(t<sup>2</sup>)
+        and memory to O(t). In addition, we developed mixed parallel algorithms to take advantage of 
+        heterogeneous compute clusters at Oak Ridge leadership computing facility. Our experiments 
+        showed significant reduction in computing time from days to seconds compared to the standard 
+        Cholesky decomposition-based GP learning on a 128 node SGI Altrix ICE 8200 cluster. This solution 
+        was operationalized at ORNL for regional scale continuous biomass monitoring using MODIS satellite 
+        based daily NDVI time series. In addition to publishing several papers in leading conferences and journals, 
+        the project won the <span style="color:red">ORNL Lab Director's best LDRD project award </span> for the year 2010.
         <ul>
           <li>Varun Chandola, Ranga Raju Vatsavai: A scalable gaussian process analysis algorithm for biomass monitoring. 
             Statistical Analysis and Data Mining 4(4): 430-445 (2011) </li>
@@ -40,19 +43,20 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
   
   <li><span style="color:red">Scaling GeoSimulations:</span>
      <ul>
-      <li>Geosimulations are widely used in urban growth modeling, environmental studies, disease spread modeling,
+      <li>Geosimulations are widely used in the urban growth modeling, environmental studies, disease spread modeling,
         traffic modeling, and land-use and land-cover changes. Geosimulations are increasingly becoming sophisticated,
-        however computational complexity has also increasing along with increase in spatial/temporal extents and final resolutions.
+        however computational complexity has also increased along with the increase in spatial/temporal extents and finer spatial resolutions.
         To address these computational and I/O challenges, we developed various parallelization strategies for scaling cellular automation 
-        based FUTURES model in distributed computing environment. In particular, we developed intelligent strategies for data
+        based FUTURES model in a distributed computing environment. In particular, we developed intelligent strategies for data
         partitioning, task scheduling, and task synchronization. These strategies have resulted in a highly scalable 
-        <span style="color:red">pFUTURES</span> model, which made it possible to study urban simulations for large spatial and temporal extents at
+        <span style="color:red">pFUTURES</span> model, which made it possible to study the urban simulations for large spatial and temporal extents at
         a finer spatial resolution than previously reported in the literature. In addition, we developed an adaptive
         mesh refinement strategy, <span style="color:red"> FUTURES-AMR</span>, that further reduced computation 
           and memory requirements for large scale simulations. 
         Typical data parallel approaches in geosimulations use static partitioning strategy along with load-balancing, 
-        however in many practical situations some tiles (data partitions) may require the simulations to run at finer 
-        resolutions than the other tiles (e.g., to account for important and critical events such as flooding). To account
+        however in many practical situations some data partitions (tiles) may require that the simulations be run at finer spatial
+        resolutions than the other tiles (e.g., to account for important and critical events such as flooding which is localized 
+        to fewer tiles). To account
         for such scenarios, we developed a novel provisioning system, <span style="color:red">FUTURES-DPE</span>, 
           that dynamically allocates additional computing 
         resources to the required tiles at run-time. This extension along with our computational steering work, 
@@ -79,16 +83,17 @@ Research on scaling machine learning algorithms, graph databases, geosimulations
   </li>  
   <li><span style="color:red">In Situ Analytics:</span>
      <ul>
-       <li> Hi-resolution simulations on exascale supercomputers are producing petabytes of data. Storing
-         and retrieving  such large dataset for analytics is a challenging task. In situ analytics aims at
-         on-the-fly data compression and summarization before the data hits secondary storage. 
-         Summarization and compression at current and future scales requires a framework for 
-         developing and benchmarking algorithms. We developed a novel framework by integrating existing, 
-         production-ready projects in VTK and demonstrated scaling results of two particular algorithms 
-         that serve as exemplars for summarization: a wavelet-based data reduction filter and a generator 
-         for creating image-like databases of extracted features (isocontours in this case). Both these
-         solutions support browser-based, post-hoc, interactive visualization of the summary for decision-making. 
-         We also demonstrated weak scaling on a distributed multi-GPU system.
+       <li> Hi-resolution simulations on exascale supercomputers are producing petabytes of data. 
+         Storing and retrieving such large datasets for analytics is a challenging task. 
+         In situ analytics aims at on-the-fly data compression and summarization before the data hits 
+         secondary storage, thus minimizing data movement. Summarization and compression at current 
+         and future scales requires a framework for developing and benchmarking algorithms. 
+         We developed a novel framework by integrating existing, production-ready projects in 
+         VTK and demonstrated scaling results of two particular algorithms that serve as exemplars 
+         for summarization: a wavelet-based data reduction filter and a generator for creating 
+         image-like databases of extracted features (e.g., isocontours in this case). Both these 
+         solutions support browser-based, post-hoc, interactive visualization of the summary for 
+         decision-making. We also demonstrated weak scaling on a distributed multi-GPU system.
          <ul>
            <li>David C. Thompson, Sébastien Jourdain, Andrew C. Bauer, Berk Geveci, Robert Maynard, 
              Ranga Raju Vatsavai, Patrick O'Leary: In Situ Summarization with VTK-m. ISAV@SC 2017: 32-36
