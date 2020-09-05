@@ -55,7 +55,7 @@ Community efforts to develop new research thrusts, ...
   </ul>
   </li>
   
-  <li> Working with scientific leaders from multiple discplines including bio, geo, and climate; and developed a
+  <li> Working with scientific leaders from multiple disciplines including bio, geo, and climate; and developed a
   research roadmap that is published as an invited paper at the IEEE International Congress on Big Data, BigData Congress.
   <ul>
     <li>Sushil K. Prasad, Danial Aghajarian, Michael McDermott, Dhara Shah, Mohamed F. Mokbel, Satish Puri, 
