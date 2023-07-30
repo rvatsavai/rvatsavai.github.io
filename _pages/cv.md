@@ -19,8 +19,9 @@ redirect_from:
 ## <span style="color:green">Professional Experience (Full time: 30+ Years)</span>
 
 * 2014 - : North Carolina State University, Raleigh, NC, USA
-  * Associate Professor, Department of Computer Science
-  * Associate Director, The Center for Geospatial Analytics
+  * Professor (2022-), Department of Computer Science
+  * Associate Professor (2014-2021), Department of Computer Science
+  * Associate Director (2024-), The Center for Geospatial Analytics
 
 * 2014 - : Oak Ridge National Laboratory, CSED and National Security Emerging Technologies, TN, USA
   * Joint Faculty Appointment (JFA)
