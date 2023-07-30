@@ -9,7 +9,7 @@ author_profile: true
 * <a href="https://dblp.uni-trier.de/pers/v/Vatsavai:Ranga_Raju.html" style="color:blue;" target="_blank">[DBLP]</a>
 * <a href="https://scholar.google.com/citations?user=y-JsL4kAAAAJ&hl=en" style="color:blue;" target="_blank">[Google Scholar]</a>
 
-## <span style="color:green">Upcoming (Accepted Papers)</span>
+## <span style="color:green">Recent/Upcoming (Accepted Papers)</span>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -20,8 +20,9 @@ author_profile: true
 {% endfor %}
 
 ## <span style="color:green">Upcoming (Papers Under Review)</span>
-
+<--
 * Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification <a href="https://arxiv.org/pdf/2007.03844.pdf" style="color:red;" target="_blank">[preprint]</a>
 * A Survey of Single-Scene Video Anomaly Detection <a href="https://arxiv.org/pdf/2004.05993" style="color:red;" target="_blank">[preprint]</a>
 * Estimating a Manifold from a Tangent Bundle Learner <a href="https://arxiv.org/pdf/1906.07661" style="color:red;" target="_blank">[preprint]</a>
 * Relational Long Short-Term Memory for Video Action Recognition <a href="https://arxiv.org/pdf/1811.07059" style="color:red;" target="_blank">[preprint]</a>
+--/>
