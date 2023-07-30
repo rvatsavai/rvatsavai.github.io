@@ -1,5 +1,5 @@
 ---
-title: "IEEE TPAMI"
+title: "IEEE TPAMI 2022"
 collection: publications
 permalink: 2022-TPAMI
 date: 2022-05-01
