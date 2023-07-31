@@ -1,7 +1,7 @@
 ---
 title: "Multisource, Multimodal, Multitemporal Classification"
 collection: research
-permalink: /research/9-multisource
+permalink: /research/m1-multisource
 ---
 
 Research on multi-* data mining and machine learning, ...
