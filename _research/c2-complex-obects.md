@@ -2,7 +2,7 @@
 title: "Complex Object Classification"
 collection: research
 type: "Research on identifying complex objects, multiple instance learning, ..."
-permalink: /research/8-patch-based-clf
+permalink: /research/c2-complex-obects
 location: "ORNL and NCSU"
 ---
 
