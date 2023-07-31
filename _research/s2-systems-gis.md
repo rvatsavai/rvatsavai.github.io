@@ -1,7 +1,7 @@
 ---
 title: "Systems Research (WebGIS)"
 collection: research
-permalink: /research/3-systems-gis
+permalink: /research/s2-systems-gis
 ---
 
 Research on WebGIS ...
