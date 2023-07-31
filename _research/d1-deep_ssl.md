@@ -1,7 +1,7 @@
 ---
 title: "Deep Semi-supervised Learning"
 collection: research
-permalink: /research/6-deep_ssl
+permalink: /research/d1-deep_ssl
 location: "NCSU"
 ---
 
