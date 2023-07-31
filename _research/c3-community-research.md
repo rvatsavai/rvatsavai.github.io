@@ -1,7 +1,7 @@
 ---
 title: "Community Efforts"
 collection: research
-permalink: /research/10-community-research
+permalink: /research/c3-community-research
 location: "ORNL and NCSU"
 ---
 
