@@ -2,7 +2,7 @@
 title: "Change Detection"
 collection: research
 type: "Research on identifying changes due to migration, internal displacement, disaster, ..."
-permalink: /research/7-change-det
+permalink: /research/c1-change-det
 location: "ORNL and NCSU"
 ---
 
