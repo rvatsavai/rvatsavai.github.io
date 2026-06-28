@@ -1,2 +1,2 @@
-This is Raju's Updated Homepage now. 
+This is Raju's Homepage now. 
 
