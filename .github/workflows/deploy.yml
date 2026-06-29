@@ -1,0 +1,15 @@
+name: Deploy Jekyll Site
+on:
+  push:
+    branches: ["master"]
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
