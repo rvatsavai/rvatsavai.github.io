@@ -1,0 +1,11 @@
+name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+on:
+  workflow_dispatch:
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+jobs:
+  reset-job:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Resetting queue"
